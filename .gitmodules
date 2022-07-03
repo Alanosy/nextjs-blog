@@ -1,3 +1,6 @@
 [submodule "lib/links"]
 	path = lib/links
 	url = https://github.com/miiiku/blog-links.git
+[submodule "nextjs-blog"]
+	path = nextjs-blog
+	url = git@github.com:Alanosy/nextjs-blog.git
